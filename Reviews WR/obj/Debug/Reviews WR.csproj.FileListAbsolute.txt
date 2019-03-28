@@ -1,0 +1,10 @@
+C:\Users\Noman\source\repos\Reviews WR\Reviews WR\obj\Debug\Reviews WR.csprojAssemblyReference.cache
+C:\Users\Noman\source\repos\Reviews WR\Reviews WR\obj\Debug\Reviews_WR.Form1.resources
+C:\Users\Noman\source\repos\Reviews WR\Reviews WR\obj\Debug\Reviews_WR.Properties.Resources.resources
+C:\Users\Noman\source\repos\Reviews WR\Reviews WR\obj\Debug\Reviews WR.csproj.GenerateResource.cache
+C:\Users\Noman\source\repos\Reviews WR\Reviews WR\obj\Debug\Reviews WR.csproj.CoreCompileInputs.cache
+C:\Users\Noman\source\repos\Reviews WR\Reviews WR\bin\Debug\Reviews WR.exe.config
+C:\Users\Noman\source\repos\Reviews WR\Reviews WR\bin\Debug\Reviews WR.exe
+C:\Users\Noman\source\repos\Reviews WR\Reviews WR\bin\Debug\Reviews WR.pdb
+C:\Users\Noman\source\repos\Reviews WR\Reviews WR\obj\Debug\Reviews WR.exe
+C:\Users\Noman\source\repos\Reviews WR\Reviews WR\obj\Debug\Reviews WR.pdb
